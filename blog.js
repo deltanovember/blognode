@@ -1,4 +1,4 @@
-// Module dependencies.
+// Module dependencies. Dummy comment
 var express = require('express');
 
 var app = express.createServer();
